@@ -17,7 +17,7 @@ given in the form of silence.
 
 You have given your resume to a friend in the hopes of getting
 referred to where they are working. You tried to reach them at regular
-intervals in a reasonable timeframe and you are not consistently
+intervals in a reasonable timeframe and you are consistently not
 receiving any feedback, then the answer is obvious. That they might
 have tried well enough, or they are too busy with their work. Hence
 they cannot respond back.
