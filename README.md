@@ -3,7 +3,7 @@
 
 ### Scenario 1
 
-You have posted a question on a mailing list, and you are sure based
+You have posted a proposal on a mailing list, and you are sure based
 on your past experience that people would generally be detail oriented
 to see your complete message. But, no one responds back, everyone just
 stays silent. You say to yourself why don't somebody just say yes or
